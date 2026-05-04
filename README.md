@@ -13,6 +13,7 @@ Release tags are tool-scoped so multiple Cephalopodic binaries can coexist
 without version collisions:
 
 - `cephi-v<version>`
+- `cephi-api-v<version>`
 - `fortress-v<version>`
 - `scath-v<version>`
 
